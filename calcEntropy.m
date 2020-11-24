@@ -1,5 +1,5 @@
 function SE = calcEntropy(M)
-
+// %adding a comment
 SE = 0;
 for i=1:length(M)
     if(M(i)~=0)
